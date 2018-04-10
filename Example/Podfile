@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WGCategoryKit_Example' do
+  pod 'WGCategoryKit', :path => '../'
+
+  target 'WGCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
