@@ -1,0 +1,22 @@
+{
+  "name": "WGCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of WGCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wanggang1128/WGCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wanggang1128": "978159546@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wanggang1128/WGCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGCategoryKit/Classes/**/*"
+}
